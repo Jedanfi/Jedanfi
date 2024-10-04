@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!
+- Student from Indonesia :indonesia:
+- Trying to learn as much as I can
+
+If you would like to contact me, please do so by: jedanfi.myschool@gmail.com
 
 <!--
 **Jedanfi/Jedanfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
