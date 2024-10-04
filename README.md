@@ -1,7 +1,10 @@
-## Hello!
-- Student from Indonesia :indonesia:
-- Trying to learn as much as I can
+## Welcome!
+Here are a few fun things about me:
+- I'm a student from Indonesia :indonesia:
+- I'm trying to learn as much as I can
+- I fear Assembly
 
+# Contact Information
 If you would like to contact me, please do so by: jedanfi.myschool@gmail.com
 
 <!--
