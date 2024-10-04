@@ -4,7 +4,7 @@ Here are a few fun things about me:
 - I'm trying to learn as much as I can
 - I fear Assembly
 
-# Contact Information
+### Contact Information
 If you would like to contact me, please do so by: jedanfi.myschool@gmail.com
 
 <!--
