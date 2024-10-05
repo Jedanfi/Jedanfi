@@ -1,8 +1,9 @@
 ## Welcome!
 Here are a few fun things about me:
-- I'm a student from Indonesia :indonesia:
-- I'm trying to learn as much as I can
-- I fear Assembly
+- I'm a student learning from Indonesia :indonesia:
+- Actively trying to learn as much as possible
+- I fear assembly 
+- I sometimes animate as a hobby
 
 ### Contact Information
 If you would like to contact me, please do so by: jedanfi.myschool@gmail.com
